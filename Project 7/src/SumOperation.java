@@ -1,0 +1,2 @@
+public class SumOperation implements {
+}
