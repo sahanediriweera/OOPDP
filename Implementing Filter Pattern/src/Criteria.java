@@ -1,3 +1,5 @@
+import java.util.List;
+
 public interface Criteria {
-    public 
+    public List<Person> meetCriteria(List<Person> persons);
 }
